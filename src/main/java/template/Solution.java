@@ -1,8 +1,4 @@
-package s2_add_two_number;
-
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
+package template;
 
 public class Solution {
 
