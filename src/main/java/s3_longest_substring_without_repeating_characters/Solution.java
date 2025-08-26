@@ -1,9 +1,6 @@
 package s3_longest_substring_without_repeating_characters;
 
-import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Map;
-import java.util.Objects;
 
 public class Solution {
     public int lengthOfLongestSubstring(String s) {

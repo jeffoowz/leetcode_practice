@@ -3,7 +3,12 @@ package common;
 public class ListNode {
     public int val;
     public ListNode next;
+    public ListNode() {};
     public ListNode(int x) { val = x; }
+    public ListNode(int x, ListNode next) {
+        this.val = val;
+
+    }
 
     public static ListNode createListNode(int[] arr) {
         if (arr == null || arr.length == 0) {
